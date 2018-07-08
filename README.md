@@ -3,7 +3,7 @@
 
 # Instructions
 
-### Try this on codepen -> [![Edit new](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/walkwel/problem-components/tree/master/components/jupyterProblem)
+### Try this on codepen -> [![Edit new](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/rajanmagar/react-redux-saga)
 
 Setup
 
