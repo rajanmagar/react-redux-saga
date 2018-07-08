@@ -1,5 +1,5 @@
 # redux-saga-beginner
-Companion Repo for [Redux/Redux-saga beginner](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
+[![npm version](https://img.shields.io/npm/v/redux-saga.svg)](https://www.npmjs.com/package/redux-saga)
 
 # Instructions
 
@@ -17,7 +17,7 @@ npm install || yarn
 Run the demo
 
 ```
-npm start
+npm start || yarn start
 ```
 
 Run tests
