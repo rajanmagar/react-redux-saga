@@ -1,8 +1,27 @@
-# react-redux-saga
+# redux-saga-beginner
+Companion Repo for [Redux/Redux-saga beginner](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
 
-## lakshay
-was here
+# Instructions
 
+Setup
 
-### fixing
-the readme file is being fixed in order to provide more details about the **project**
+```
+// clone the repo
+git clone https://github.com/rajanmagar/react-redux-saga.git
+
+cd redux-saga-beginner
+
+npm install || yarn
+```
+
+Run the demo
+
+```
+npm start
+```
+
+Run tests
+
+```
+npm test
+```
