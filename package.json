@@ -2,7 +2,7 @@
   "name": "react-redux-saga",
   "version": "1.0.0",
   "description": "React Redux Saga For Beginners",
-  "main": "lib/index.js",
+  "main": "main.js",
   "scripts": {
     "test": "babel-node sagas.spec.js | tap-spec",
     "start": "budo main.js:build.js --dir ./ --verbose  --live -- -t babelify"
